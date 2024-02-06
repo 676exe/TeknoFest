@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lB42iiTxVi2szaYOtoKora4r/Rj6NtOu+vkCRfN63W2hrU5bh9RsWe2BPXpRWFS3Oqh9LI8h7EWx6W5/jJBNjA==",
+  "dgSpecHash": "EhSfkXJY8fsLnEyWubX+4EplfK3u6cX6Q3A0SYzQFGh+oZ0m6oDi2o5rH41iHju3SNWMZ8simw298SUM069ftg==",
   "success": true,
-  "projectFilePath": "/mnt/45fc17d3-9615-4100-9aa1-96a49b4e10f4/Code/Dotnet/teknoFest/teknoFest.csproj",
+  "projectFilePath": "/mnt/45fc17d3-9615-4100-9aa1-96a49b4e10f4/Code/TeknoFest/teknoFest.csproj",
   "expectedPackageFiles": [
     "/home/pengubey/.nuget/packages/entityframework/6.4.4/entityframework.6.4.4.nupkg.sha512",
     "/home/pengubey/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",

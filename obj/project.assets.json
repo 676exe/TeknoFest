@@ -1084,11 +1084,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/45fc17d3-9615-4100-9aa1-96a49b4e10f4/Code/Dotnet/teknoFest/teknoFest.csproj",
+      "projectUniqueName": "/mnt/45fc17d3-9615-4100-9aa1-96a49b4e10f4/Code/TeknoFest/teknoFest.csproj",
       "projectName": "teknoFest",
-      "projectPath": "/mnt/45fc17d3-9615-4100-9aa1-96a49b4e10f4/Code/Dotnet/teknoFest/teknoFest.csproj",
+      "projectPath": "/mnt/45fc17d3-9615-4100-9aa1-96a49b4e10f4/Code/TeknoFest/teknoFest.csproj",
       "packagesPath": "/home/pengubey/.nuget/packages/",
-      "outputPath": "/mnt/45fc17d3-9615-4100-9aa1-96a49b4e10f4/Code/Dotnet/teknoFest/obj/",
+      "outputPath": "/mnt/45fc17d3-9615-4100-9aa1-96a49b4e10f4/Code/TeknoFest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/pengubey/.nuget/NuGet/NuGet.Config"
