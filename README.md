@@ -1,2 +1,0 @@
-# TeknoFest
-Teknofest için projemiz
